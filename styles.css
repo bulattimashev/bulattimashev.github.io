@@ -1,0 +1,76 @@
+* {  
+    box-sizing: border-box;  
+}  
+#saber {
+    margin: 1px 0;  
+    padding: 0px;  
+    background: rgba(255, 215, 0, 0.1);  
+    border-radius: 8px;  
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5); 
+    height: 800px
+    width: 200px;
+    margin-left: left;
+}
+body {  
+    font-family: 'Arial', sans-serif;  
+    background-color: black;  
+    color: gold;  
+    margin: 0;  
+    padding: 0;  
+}  
+
+header {  
+    text-align: center;  
+    padding: 50px 0;  
+    background: linear-gradient(to bottom, #000000, #1a1a1a);  
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);  
+}  
+
+
+h1 {  
+    font-size: 48px;  
+    letter-spacing: 5px;  
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);  
+}  
+
+h2 {  
+    font-size: 24px;  
+    letter-spacing: 3px;  
+}  
+
+main {  
+    padding: 20px;  
+    text-align: center;  
+}  
+
+section {  
+    margin: 20px 0;  
+    padding: 20px;  
+    background: rgba(255, 215, 0, 0.1);  
+    border-radius: 8px;  
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);  
+}  
+
+.links {
+     
+    color: gold; 
+}
+
+h3 {  
+    font-size: 28px;  
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6); 
+      
+}  
+
+footer {  
+    text-align: center;  
+    padding: 10px 0;  
+    background-color: rgba(0, 0, 0, 0.9);  
+    position: relative;  
+    bottom: 0;  
+    width: 100%;  
+}  
+
+footer p {  
+    color: #ccc;  
+}
